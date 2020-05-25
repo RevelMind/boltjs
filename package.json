@@ -2,7 +2,7 @@
   "name": "boltjs",
   "version": "1.0.0",
   "description": "A lightweight reimplementation of ExpressJS.",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -29,5 +29,8 @@
   "bugs": {
     "url": "https://github.com/RevelMind/boltjs/issues"
   },
-  "homepage": "https://github.com/RevelMind/boltjs#readme"
+  "homepage": "https://github.com/RevelMind/boltjs#readme",
+  "dependencies": {
+    "path-to-regexp": "^6.1.0"
+  }
 }
