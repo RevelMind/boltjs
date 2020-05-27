@@ -1,6 +1,8 @@
 ## ⚡Bolt⚡
 A lighting fast and lightweight web application framework for Node.JS!
 
+## WARNING: BOLT IS UNFINISHED!!
+
 ### Example Application
 ```javascript
 let bolt = require('jsbolt');
