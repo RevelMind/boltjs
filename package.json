@@ -1,5 +1,5 @@
 {
-  "name": "boltjs",
+  "name": "jsbolt",
   "version": "1.0.0",
   "description": "A lightweight reimplementation of ExpressJS.",
   "main": "dist/index.js",
