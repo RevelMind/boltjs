@@ -31,6 +31,6 @@
   },
   "homepage": "https://github.com/RevelMind/boltjs#readme",
   "dependencies": {
-    "path-to-regexp": "^6.1.0"
+    "path-to-regexp": "^8.0.0"
   }
 }
